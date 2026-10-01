@@ -2,3 +2,5 @@ openai
 langchain
 python-dotenv
 requests
+gradio>=4.0
+faiss-cpu>=1.15
